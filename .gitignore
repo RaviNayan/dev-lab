@@ -1,5 +1,5 @@
 # Private API configuration
-/1. Weather app/config.js
+/01-weather-app/config.js
 
 # Environment variables
 .env
