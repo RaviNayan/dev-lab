@@ -1,0 +1,7 @@
+# Private API configuration
+/1. Weather app/config.js
+
+# Environment variables
+.env
+.env.*
+!.env.example
