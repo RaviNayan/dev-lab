@@ -29,6 +29,7 @@ As I progress, this repository may also include projects involving additional te
 | 01 | 🌦️ Weather App | Fetches and displays weather information for a searched city using the OpenWeatherMap API. | API integration, asynchronous JavaScript (`async/await`), JSON data, and dynamic UI updates.           |
 | 02 | ✅ To-Do App     | A task management application for adding, completing, and deleting tasks.                  | DOM manipulation, event handling, dynamic element creation, and data persistence using `localStorage`. |
 | 03 | ❌⭕ Tic-Tac-Toe  | A two-player game featuring alternating turns, winner detection, and draw detection.       | Conditional logic, arrays, game state management, winning combinations, and user interaction.          |
+| 04 | ✊✋✌️ Rock Paper Scissors | Play against the computer in a classic hand game. | Randomization, conditionals, DOM manipulation, event handling, score tracking. |
 
 Each project has its own folder containing the source code and a dedicated README with further details.
 
